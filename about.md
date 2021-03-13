@@ -13,7 +13,7 @@ order: 10
 IT로 가치를 만드는 개발자를 목표로 합니다. <br/>
 데이터와 AI의 결합으로 태어날 수많은 가능성과 미래를 그립니다.
 
-# Skills
+## Skills
 * Language : C#, Python, Web(HTML, CSS, Javascript)
 * DB : RDBMS(MS-SQL), NoSQL(MongoDB)
 * Server : IIS, AWS EC2
