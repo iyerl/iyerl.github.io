@@ -1,5 +1,5 @@
 ---
-layout: tag-grid
+layout: tag-list
 type: tag
 title: Books
 slug: books
