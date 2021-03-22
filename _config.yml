@@ -118,13 +118,13 @@ font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
 defaults:
 #   # You can use this to provide a default accent color and background for
 #   # all pages under a given path:
-  - scope:
-      path:            hyde/
-    values:
-      accent_color:    rgb(38,139,210)
-      accent_image:
-        background:    rgb(32,32,32)
-        overlay:       false
+  # - scope:
+  #     path:            hyde/
+  #   values:
+  #     accent_color:    rgb(38,139,210)
+  #     accent_image:
+  #       background:    rgb(32,32,32)
+  #       overlay:       false
 
 #   # Don't include documents in assets in the sitemap
   - scope:
@@ -232,7 +232,7 @@ hydejack:
 
   # You can set this to `true` if you don't want to set the `theme-color` meta tag,
   # This only affects the meta tag, not the color specified in the app manifest.
-  no_theme_color:      false
+  no_theme_color:      true
 
   # Disable the breadcrumbs above the title
   no_breadcrumbs:      false
@@ -262,7 +262,7 @@ hydejack:
     always:            true
 
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
-    dynamic:           false
+    dynamic:           true
 
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              false
@@ -418,10 +418,10 @@ jekyll_compose:
           url: https://example.com
 
 # jekyll-feed settings
-feed:
-  categories:
-    - dev
-    - review
+# feed:
+#   categories:
+#     - dev
+#     - review
 
 # utterance settings
 comments:
