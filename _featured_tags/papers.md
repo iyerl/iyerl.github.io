@@ -1,0 +1,11 @@
+---
+layout: tag-grid
+type: tag
+title: Papers
+slug: papers
+category: review
+sidebar: true #menu:false, submenu: true
+order: 2
+description: >
+    Posts on Thesis, Article, Note, etc
+---
