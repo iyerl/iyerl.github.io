@@ -9,7 +9,7 @@ url:                   https://iyerl.github.io
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# baseurl:               '/hydejack-starter-kit'
+baseurl:               ''
 
 
 # General settings
@@ -124,7 +124,7 @@ defaults:
   #     accent_color:    rgb(38,139,210)
   #     accent_image:
   #       background:    rgb(32,32,32)
-  #       overlay:       false
+  #       overlay:       true
 
 #   # Don't include documents in assets in the sitemap
   - scope:
@@ -209,7 +209,7 @@ hydejack:
 
   # Set to `true` if you don't intend on changing the accent color on a per-page basis. 
   # This will increase site build speed!
-  no_page_style:       false
+  no_page_style:       true
 
   # Code blocks and tables "break" the layout by spanning the full available width.
   # Set this to true if you want them to be the same width as other content.
@@ -232,7 +232,7 @@ hydejack:
 
   # You can set this to `true` if you don't want to set the `theme-color` meta tag,
   # This only affects the meta tag, not the color specified in the app manifest.
-  no_theme_color:      true
+  no_theme_color:      false
 
   # Disable the breadcrumbs above the title
   no_breadcrumbs:      false
@@ -418,10 +418,10 @@ jekyll_compose:
           url: https://example.com
 
 # jekyll-feed settings
-# feed:
-#   categories:
-#     - dev
-#     - review
+feed:
+  categories:
+    - dev
+    - review
 
 # utterance settings
 comments:
