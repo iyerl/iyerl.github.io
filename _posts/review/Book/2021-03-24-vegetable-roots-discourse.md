@@ -19,9 +19,9 @@ image:
 ---
 
 ### 저자
-명(名)<sup id="fnref:name"><a  class="footnote" href="#fn:name">[1]</a></sup> : 홍응명(洪應明)   
-자(子)<sup id="fnref:name"><a  class="footnote" href="#fn:name">[2]</a></sup> : 자성(自誠)   
-호(號)<sup id="fnref:name"><a  class="footnote" href="#fn:name">[3]</a></sup> : 환초도인(還初道人)   
+명(名)<sup id="fnref:1"><a  class="footnote" href="#fn:1">[1]</a></sup> : 홍응명(洪應明)   
+자(子)<sup id="fnref:2"><a  class="footnote" href="#fn:2">[2]</a></sup> : 자성(自誠)   
+호(號)<sup id="fnref:3"><a  class="footnote" href="#fn:3">[3]</a></sup> : 환초도인(還初道人)   
 중국 명(明)나라 말기(약 16-17세기) 사람
 
 ### 사적
@@ -34,12 +34,12 @@ image:
 자신을 수양하여 현실 상황에 가장 적합하고 원만하게 행동하라는 주제가 담긴 책
 
 ### 판본
-1. 만력<sup id="fnref:name"><a  class="footnote" href="#fn:name">[4]</a></sup>연간에 간행된 판본
-   - 저자가 홍자성이며 우공겸의 제사(題詞)<sup id="fnref:name"><a  class="footnote" href="#fn:name">[5]</a></sup>가 붙어 있는 판본
+1. 만력<sup id="fnref:4"><a  class="footnote" href="#fn:4">[4]</a></sup>연간에 간행된 판본
+   - 저자가 홍자성이며 우공겸의 제사(題詞)<sup id="fnref:5"><a  class="footnote" href="#fn:5">[5]</a></sup>가 붙어 있는 판본
    - 전집(前集)과 후집(後集)으로 나뉘어 있으며 장수가 360장 미만
-   - 본 역서는 이 판본을 기준으로 삼아 여러 판본 대조하여 적절하게 취사하였다고 밝히고 있음
+   - 본 역서는 이 판본을 기준으로 삼아 여러 판본을 대조하여 적절하게 취사하였다고 밝히고 있음
   
-2. 건륭<sup id="fnref:name"><a  class="footnote" href="#fn:name">[6]</a></sup>연간에 간행된 판본
+2. 건륭<sup id="fnref:6"><a  class="footnote" href="#fn:6">[6]</a></sup>연간에 간행된 판본
    - 항목이 수성(修省)·응수(應酬)·평의(評議)·한적(閑適)·개론(槪論) 등 5개 부분으로 나뉘어져 있으며, 개론의 내용이 만력연간 간행본에 있음
    - 만력연간 간행본에 비해 장수가 많음 
 
@@ -84,38 +84,38 @@ image:
 전반적으로 차분해지고 스스로의 중심에 대해 생각하며 명상에 잠길 수 있는 책이다.
 
 ***
-<a id="fn:name" class="footnote"><strong>
+<a id="fn:1" class="footnote"><strong>
 1.
 </strong></a> 
 이름. 부모나 스승 등 어른이 지어주는 것 
-<a class="footnote" href="#fnref:name"><sup>[return]</sup>
+<a class="footnote" href="#fnref:1"><sup>[return]</sup>
 
-<a id="fn:name" class="footnote"><strong>
+<a id="fn:2" class="footnote"><strong>
 2.
 </strong></a> 
 옛날에 15세-20세가 되면 혼인 전 관례(冠禮, 성년식)를 치르고 가지는 호칭. 『예기(禮記)』의 "이름(名)을 귀하게 여겨서 공경하기 때문이다" 라는 구절에 따라 이름(名)을 함부로 부르지 않고 자(子)를 불렀다. 명(名)과 마찬가지로 부모나 스승 등 어른이 지어주었다. 
-<a class="footnote" href="#fnref:name"><sup>[return]</sup>
+<a class="footnote" href="#fnref:2"><sup>[return]</sup>
 
-<a id="fn:name" class="footnote"><strong>
+<a id="fn:3" class="footnote"><strong>
 3.
 </strong></a> 
 살아가면서 뜻한 바가 있거나 마음이 가는 의미에 따라 스스로 짓거나 다른 사람이 지어준 호칭.
-<a class="footnote" href="#fnref:name"><sup>[return]</sup>
+<a class="footnote" href="#fnref:3"><sup>[return]</sup>
 
-<a id="fn:name" class="footnote"><strong>
+<a id="fn:4" class="footnote"><strong>
 4.
 </strong></a> 
 萬歷. 1573-1619. 중국 명나라 말기 신종(神宗) 황제 재위 기간 당시의 연호
-<a class="footnote" href="#fnref:name"><sup>[return]</sup>
+<a class="footnote" href="#fnref:4"><sup>[return]</sup>
 
-<a id="fn:name" class="footnote"><strong>
+<a id="fn:5" class="footnote"><strong>
 5.
 </strong></a> 
 책의 첫머리에 그 책과 관계되는 노래나 시 따위를 적은 글
-<a class="footnote" href="#fnref:name"><sup>[return]</sup>
+<a class="footnote" href="#fnref:5"><sup>[return]</sup>
 
-<a id="fn:name" class="footnote"><strong>
+<a id="fn:6" class="footnote"><strong>
 6.
 </strong></a> 
 乾隆. 1736-1796. 중국 청나라 고종 황제 재위 기간 당시의 연호
-<a class="footnote" href="#fnref:name"><sup>[return]</sup>
+<a class="footnote" href="#fnref:6"><sup>[return]</sup>

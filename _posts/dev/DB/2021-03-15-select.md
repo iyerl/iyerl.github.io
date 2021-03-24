@@ -10,7 +10,7 @@ tags: db MySQL
 `프로그래머스`의 문제를 바탕으로 활용해보는 연재.
 {:.note}
 
-<!-- more -->
+<!--more-->
 
 * this ordered seed list will be replaced by the toc
 {:toc .large-only}
