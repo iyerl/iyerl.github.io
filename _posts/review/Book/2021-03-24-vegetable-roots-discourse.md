@@ -8,7 +8,7 @@ image:
   path: /assets/img/review/books/2021-03-24-header.jpg
 ---
 
-> 홍익 출판사의 "채근담(菜根談/홍자성 저/김성중 역)"을 읽고 작성한 리뷰입니다.
+> 홍익 출판사의 『채근담(菜根談/홍자성 저/김성중 역)』을 읽고 작성한 리뷰입니다.
 
 <!--more-->
 
@@ -19,10 +19,10 @@ image:
 ---
 
 ### 저자
-명(名)<sup id="fnref:1"><a  class="footnote" href="#fn:1">[1]</a></sup> : 홍응명(洪應明)   
-자(子)<sup id="fnref:2"><a  class="footnote" href="#fn:2">[2]</a></sup> : 자성(自誠)   
-호(號)<sup id="fnref:3"><a  class="footnote" href="#fn:3">[3]</a></sup> : 환초도인(還初道人)   
-중국 명(明)나라 말기(약 16-17세기) 사람
+ * 명(名)<sup id="fnref:1"><a  class="footnote" href="#fn:1">[1]</a></sup> : 홍응명(洪應明)   
+ * 자(子)<sup id="fnref:2"><a  class="footnote" href="#fn:2">[2]</a></sup> : 자성(自誠)   
+ * 호(號)<sup id="fnref:3"><a  class="footnote" href="#fn:3">[3]</a></sup> : 환초도인(還初道人)   
+ * 중국 명(明)나라 말기(약 16-17세기) 사람
 
 ### 사적
 『선불기종』(1602), 『채근담』(1607-1613)
