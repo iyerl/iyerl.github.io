@@ -79,7 +79,7 @@ permalink:             none
 paginate:              10
 # paginate_path:         /blog/:num/
 paginate_path:         /page-:num/
-#excerpt_separator:    <!--more-->  # 블로그 메인에서 발췌시 발췌 영역 표시. 생략시 임의로 자동 발췌
+excerpt_separator:    <!--more-->  # 블로그 메인에서 발췌시 발췌 영역 표시. 생략시 임의로 자동 발췌
 
 # Theme
 # ---------------------------------------------------------------------------------------
