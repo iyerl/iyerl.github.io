@@ -11,6 +11,7 @@ tags: db MySQL
 {:.note}
 
 <!-- more -->
+
 * this ordered seed list will be replaced by the toc
 {:toc .large-only}
 
