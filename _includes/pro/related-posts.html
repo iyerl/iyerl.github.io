@@ -19,16 +19,16 @@
 {% endif %}
 
 {% if related_posts.size > 0 %}
-here1
+
 <aside class="related mb4" role="complementary">
-  here2
+ 
   <h2 class="hr-bottom">{{ site.data.strings.related_posts | default:"Related Posts" }}</h2>
-here3
+
   <ul class="related-posts">
-    here4
+    
     {% for post in related_posts limit:2 %}
       {% if post %}
-      here5
+      
         {% include_cached components/post-list-item.html post=post %}
       {% else %}
         <li>Post with path <code>{{ post_path }}</code> not found.</li>
