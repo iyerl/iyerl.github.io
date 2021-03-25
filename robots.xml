@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: http://iyerl.github.io/sitemap.xml
+
+<!-- Sitemap 업데이트 알림 -->
+<!-- https://www.google.com/ping?sitemap=http://iyerl.github.io/sitemap.xml -->
