@@ -6,6 +6,8 @@ categories: review
 tags: papers
 image:
   path: /assets/img/review/papers/2021-03-24-header.png
+description : >
+    DeepLearning과 CNN 기본 구조 : 의료 분야를 바탕으로
 ---
 
 > 「의료인공지능: 인공지능 초심자를 위한 길라잡이(Artificial Intelligence in Medicine: Beginner’s Guide)」를 읽고 작성한 리뷰입니다.

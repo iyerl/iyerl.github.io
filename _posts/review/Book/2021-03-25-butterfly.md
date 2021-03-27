@@ -6,13 +6,15 @@ categories: review
 tags: books
 image:
   path: /assets/img/review/books/2021-03-25-header.jpg
+description: >
+  꿈과 현실, 그 사이에서
 ---
 
 > 위즈덤하우스의 『나빌레라(HUN 글/ 지민 그림/DAUM웹툰 연재)』를 읽고 작성한 리뷰입니다.
 
 <!--more-->
 
-* this unordered seed list will be replaced by the toc
+0. this unordered seed list will be replaced by the toc
 {:toc}
 
 ## 기본 정보
