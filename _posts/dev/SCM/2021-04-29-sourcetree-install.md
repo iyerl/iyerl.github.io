@@ -12,12 +12,12 @@ description : >
 
 <!--more-->
 
+## SourceTree
+- Atlassian에서 개발한 GUI버전 GIT 형상관리 툴
+
 * this unordered seed list will be replaced by the toc
 {:toc .large-only}
 
-## SourceTree
-- Atlassian에서 개발한 GUI버전 GIT 형상관리 툴
-  
 ## 설치
 1. 소스트리 사이트에서 프로그램 다운로드   
 SourceTree 홈페이지에서 Windows용 설치 프로그램을 **다운로드**한다.    
