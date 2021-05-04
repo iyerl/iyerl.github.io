@@ -11,10 +11,10 @@ description : >
 ---
 
 <!--more-->
-0. this ordered seed list will be replaced by the toc
+- this unordered seed list will be replaced by the toc
 {:toc .large-only}
 
-## Git의 구성요소
+## 가. Git의 구성요소
 ![GIT의 3가지 컴포넌트](/assets/img/dev/scm/2021-04-30-git-status.png)
 
 ### 1. 작업트리 (Work-Tree / Working Directory)
@@ -41,7 +41,7 @@ description : >
 - git 명령어 : `git push origin master`
 - 로컬 저장소에 commit된 파일들을 push 명령어를 통해 원격 저장소로 전달   
 
-## Git 프로젝트 작업 순서
+## 나. Git 프로젝트 작업 순서
 ### 1. Pull
 - 원격 저장소(github)의 변경된 데이터를 가져오는 git 명령어
 - 원격 저장소의 버전을 가져와, 로컬 저장소와 **병합(merge)**되어 새로운 버전이 만들어지기 때문에 충돌이 일어날 수 있음   
@@ -91,5 +91,5 @@ description : >
 ![Push 완료](/assets/img/dev/scm/2021-04-30-push-3.png) 
 
 
-## Reference
+## 다. Reference
 [Git Documentation 1.3 시작하기 - Git 기초](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EA%B8%B0%EC%B4%88)
