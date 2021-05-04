@@ -76,8 +76,19 @@ description : >
 
 ### 4. pull
 - 원격 저장소에 push 하기전에 pull을 한 번 더 실행하여 로컬 작업 중 원격 저장소가 업데이트된 경우를 대비한다.
-- 
+  
 ### 5. push
+- 원격 저장소에 push하여 소스 코드를 Merge한다.
+
+#### 5-1. commit 작업 SourceTree 튜토리얼
+1. 좌측 상단의 ""**Push**" 버튼을 클릭한다.
+![Push 버튼 클릭](/assets/img/dev/scm/2021-04-30-push-1.png)   
+
+1. 관련 설정을 확인하고 ""**Push**" 버튼을 클릭한다.
+![Push Preference](/assets/img/dev/scm/2021-04-30-push-2.png)  
+
+1. push 완료!
+![Push 완료](/assets/img/dev/scm/2021-04-30-push-3.png) 
 
 
 ## Reference
