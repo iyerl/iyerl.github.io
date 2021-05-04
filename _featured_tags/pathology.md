@@ -1,11 +1,11 @@
 ---
 layout: tag-list
 type: tag
-title: Pathology
-slug: pathology
+title: Papers
+slug: papers
 category: review
 sidebar: true #menu:false, submenu: true
-order: 2
+order: 3
 description: >
-    Posts on Pathology, DP(Digital Pathology), ETC
+    Posts on Thesis, Article, Note, etc
 ---

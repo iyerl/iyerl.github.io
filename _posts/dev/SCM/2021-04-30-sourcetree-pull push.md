@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "[Sourcetree] git 작업 순서"
+title:  "[Sourcetree] Git 작업 순서"
 subtitle:   "git 형상관리"
 categories: dev
 tags: scm sourcetree git components status push pull
 image:
-  path: /assets/img/dev/scm/2021-04-29-header.PNG
+  path: /assets/img/dev/scm/2021-04-30-header.png
 description : >
     git의 3가지 컴포넌트, git 상태, git 작업 순서
 ---
@@ -48,7 +48,7 @@ description : >
 - <u>**새로운 작업을 시작하기 전**</u>에, 반드시 Pull 명령어를 실행하여 원격 저장소에 새로운 내용이 있는지 확인
   - pull 없이 새로운 작업을 수행하여 원격 저장소에 push를 할 경우, git은 push를 거절   
 
-#### 1-1. pull 작업 튜토리얼
+#### 1-1. pull 작업 SourceTree 튜토리얼
 1. SourceTree에서 Pull 버튼을 클릭 
 ![pull 버튼 클릭](/assets/img/dev/scm/2021-04-30-pull-1.png)   
 
@@ -62,12 +62,17 @@ description : >
 ### 2. 작업 (로컬)
 - 데이터의 생성/수정/삭제 등 필요한 작업을 로컬에서 수행한다.
 
-### 3. commit
+### 3. Commit
 - 원격저장소로 변경사항을 push하기 전, 인덱스의 파일들을 local repository로 변경 이력을 저장하는 git 명령어
+#### 3-1. commit 작업 SourceTree 튜토리얼
+1. "스테이지에 올라가지 않은 파일"에서 변경 사항이 있는 모든 파일들을 확인한다. 리스트를 클릭하면 우측하단에서 변경된 log를 볼 수 있다. **모두 스테이지에 올리기**"를 클릭하거나 commit할 파일들을 복수 선택하여 "**선택 내용 스테이지에 올리기**"를 클릭한 후, 좌측 상단의 ""**Commit**" 버튼을 클릭한다.
+![Staging & Commit](/assets/img/dev/scm/2021-04-30-commit-1.png)   
 
+1. "스테이지에 올라가지 않은 파일"에서 변경 사항이 있는 모든 파일들을 확인한다. 리스트를 클릭하면 우측하단에서 변경된 log를 볼 수 있다. **모두 스테이지에 올리기**"를 클릭하거나 commit할 파일들을 복수 선택하여 "**선택 내용 스테이지에 올리기**"를 클릭한 후, 좌측 상단의 ""**Commit**" 버튼을 클릭한다.
+![Staging & Commit](/assets/img/dev/scm/2021-04-30-commit-2.png)  
 ### 4. pull
-- 원격 저장소에 push 하기전에 pull을 한 번 더 실행하여 가장 최신 버전으로 맞춘다.
-
+- 원격 저장소에 push 하기전에 pull을 한 번 더 실행하여 로컬 작업 중 원격 저장소가 업데이트된 경우를 대비한다.
+- 
 ### 5. push
 
 

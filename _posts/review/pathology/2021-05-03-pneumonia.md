@@ -2,7 +2,7 @@
 layout: post
 title:  "Pneumonia"
 subtitle:   "Pneumonia"
-categories: pathology
+categories: review
 tags: pathology pneumonia
 description : >
     pneumonia
