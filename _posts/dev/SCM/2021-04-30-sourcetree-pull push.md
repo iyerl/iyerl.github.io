@@ -53,11 +53,11 @@ description : >
 ![pull 버튼 클릭](/assets/img/dev/scm/2021-04-30-pull-1.png)   
 
 1. SourceTree에서 Pull 관련 설정을 확인 
-![pull 버튼 클릭](/assets/img/dev/scm/2021-04-30-pull-2.png)    
+![pull 설정](/assets/img/dev/scm/2021-04-30-pull-2.png)    
 
 1. SourceTree에서 Pull이 완료된 History 확인
 - 원격 저장소(origin/master)와 로컬 저장소(master)가 버전이 같아진 것을 확인할 수 있다.   
-![pull 버튼 클릭](/assets/img/dev/scm/2021-04-30-pull-3.png)    
+![pull 완료](/assets/img/dev/scm/2021-04-30-pull-3.png)    
 
 ### 2. 작업 (로컬)
 - 데이터의 생성/수정/삭제 등 필요한 작업을 로컬에서 수행한다.
@@ -68,8 +68,12 @@ description : >
 1. "스테이지에 올라가지 않은 파일"에서 변경 사항이 있는 모든 파일들을 확인한다. 리스트를 클릭하면 우측하단에서 변경된 log를 볼 수 있다. **모두 스테이지에 올리기**"를 클릭하거나 commit할 파일들을 복수 선택하여 "**선택 내용 스테이지에 올리기**"를 클릭한 후, 좌측 상단의 ""**Commit**" 버튼을 클릭한다.
 ![Staging & Commit](/assets/img/dev/scm/2021-04-30-commit-1.png)   
 
-1. "스테이지에 올라가지 않은 파일"에서 변경 사항이 있는 모든 파일들을 확인한다. 리스트를 클릭하면 우측하단에서 변경된 log를 볼 수 있다. **모두 스테이지에 올리기**"를 클릭하거나 commit할 파일들을 복수 선택하여 "**선택 내용 스테이지에 올리기**"를 클릭한 후, 좌측 상단의 ""**Commit**" 버튼을 클릭한다.
-![Staging & Commit](/assets/img/dev/scm/2021-04-30-commit-2.png)  
+1. Staging Area에 올라간 파일들을 다시 확인한 후, 하단의 comment창에 변경 내역 메시지를 작성하고 ""**커밋**" 버튼을 클릭한다.
+![Log Message & Commit](/assets/img/dev/scm/2021-04-30-commit-2.png)  
+
+1. commit 완료!
+![Commit 완료](/assets/img/dev/scm/2021-04-30-commit-3.png) 
+
 ### 4. pull
 - 원격 저장소에 push 하기전에 pull을 한 번 더 실행하여 로컬 작업 중 원격 저장소가 업데이트된 경우를 대비한다.
 - 
