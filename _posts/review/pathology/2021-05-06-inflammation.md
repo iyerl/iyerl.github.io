@@ -13,9 +13,6 @@ description : >
 
 <!--more-->
 
-* this unordered seed list will be replaced by the toc
-{:toc .large-only}
-
 ## Inflammation [ ˌɪnfləˈmeɪʃn ]
 - 염증(炎症)
 - 특정 조직의 손상 또는 감염에 대한 생체 내 반응
