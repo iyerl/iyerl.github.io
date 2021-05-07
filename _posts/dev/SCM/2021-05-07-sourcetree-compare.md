@@ -34,7 +34,9 @@ description : >
 1. 경로를 Visual Code의 설치경로로 설정하고, 각 변수를 그림과 같이 기입한다.
 - Visual Code 경로 : C:\Users\사용자\AppData\Local\Programs\Microsoft VS Code\Code.exe
 - 명령어 : 외부 비교 도구에서 실행하는 명령어 / 커스텀이 아닌 경우 생략 가능
-  - Visual Code 명령어
+  - diff 명령어 :  -n -w -d $LOCAL $REMOTE
+  - 병합 명령어 : -n -w $MERGED   
+  - Visual Code 명령어   
     1. -n
     - 기존에 열려 있는 탭이 있을 경우 새 창을 열지 않음
     1. -w, --wait
@@ -45,7 +47,7 @@ description : >
     1. $LOCAL : 로컬 경로
     1. $REMOTE : 원격 경로
     1. $MERGED : mergetool 설정
-![도구 선택 및 변수 작성](/assets/img/dev/scm/2021-05-07-compare-setting-3.png)   
+![도구 선택 및 변수 작성](/assets/img/dev/scm/2021-05-07-compare-setting-3.png)    
 
 ### 비교 실행
 1. Sourcetree 내부 비교 창의 톱니바퀴 모양의 버튼을 눌러 [외부 비교도구]를 클릭한다.
