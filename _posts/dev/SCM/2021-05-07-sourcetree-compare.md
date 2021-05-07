@@ -5,7 +5,7 @@ subtitle:   "git 형상관리"
 categories: dev
 tags: scm sourcetree git VisualCode
 image:
-  path: /assets/img/dev/scm/2021-04-30-header.png
+  path: /assets/img/dev/scm/2021-05-07-header.png
 description : >
     SourceTree, 그리고 Compare 도구로써 Visual Code
 ---
@@ -37,21 +37,21 @@ description : >
   - diff 명령어 :  -n -w -d $LOCAL $REMOTE
   - 병합 명령어 : -n -w $MERGED   
   - Visual Code 명령어   
-    1. -n
-    - 기존에 열려 있는 탭이 있을 경우 새 창을 열지 않음
-    1. -w, --wait
-    - Git은 실행 중인 VS Code가 닫힐 때까지 대기
-    - Git의 편집기로 사용할 때 유용
-    1. -d, --diff path1 path2
-    - path1과 path2 파일을 비교
-    1. $LOCAL : 로컬 경로
-    1. $REMOTE : 원격 경로
-    1. $MERGED : mergetool 설정
+      1. -n
+      - 기존에 열려 있는 탭이 있을 경우 새 창을 열지 않음
+      1. -w, --wait
+      - Git은 실행 중인 VS Code가 닫힐 때까지 대기
+      - Git의 편집기로 사용할 때 유용
+      1. -d, --diff path1 path2
+      - path1과 path2 파일을 비교
+      1. $LOCAL : 로컬 경로
+      1. $REMOTE : 원격 경로
+      1. $MERGED : mergetool 설정
 ![도구 선택 및 변수 작성](/assets/img/dev/scm/2021-05-07-compare-setting-3.png)    
 
 ### 비교 실행
 1. Sourcetree 내부 비교 창의 톱니바퀴 모양의 버튼을 눌러 [외부 비교도구]를 클릭한다.
-![외부 비교도구 클릭](/assets/img/dev/scm/2021-05-07-compare-execute-1.png)
-
+![외부 비교도구 클릭](/assets/img/dev/scm/2021-05-07-compare-execute-1.png)   
+   
 2. VS Code가 자동으로 실행되어 좌측에 기존 파일, 우측에 수정된 파일 및 변경 사항에 대한 GUI 표시가 나타난다.
 ![VS 자동실행 화면](/assets/img/dev/scm/2021-05-07-compare-execute-2.png)
