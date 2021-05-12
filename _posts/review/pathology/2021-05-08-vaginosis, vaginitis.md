@@ -16,8 +16,8 @@ description : >
 0. this unordered seed list will be replaced by the toc
 {:toc .large-only}
 
-## Vaginosis
+## Vaginosis [văj′ə-nō′sĭs]
 - 세균에 의한 질 내 **감염**
 
-## Vaginitis
+## Vaginitis [va-jə-ˈnī-təs]
 - vaginosis, 알러지, 에스트로겐 감소 등의 요소에 의한 질 내 **염증(질염)**
