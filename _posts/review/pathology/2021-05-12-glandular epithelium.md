@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "glandular epithelium"
+title:  "Glandular Epithelium"
 subtitle:   "선상피"
 categories: review
 tags: pathology glandular_epithelium
