@@ -6,13 +6,13 @@ categories: review
 tags: books
 image:
   path: /assets/img/review/books/2024-09-26-header.jpg
-description : 」
+description : >
     시집
 ---
 
-」  비제 출판사의 『내가 사랑하는 사람(정호승 저)』를 읽고 작성한 리뷰입니다.
+>  비제 출판사의 『내가 사랑하는 사람(정호승 저)』를 읽고 작성한 리뷰입니다.
 
-「!--more--」
+<!--more-->
 
 1. this ordered seed list will be replaced by the toc
 {:toc}
